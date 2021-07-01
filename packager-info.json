@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "webpackServerPort": null,
+  "expoServerNgrokUrl": "https://8u-wb2.anonymous.myapplication.exp.direct",
+  "packagerNgrokUrl": "https://packager.8u-wb2.anonymous.myapplication.exp.direct",
+  "ngrokPid": 10960,
+  "packagerPid": null
+}
